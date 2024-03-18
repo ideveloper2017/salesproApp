@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "980258861434",
+    "firebase_url": "https://salesprp-31e4a-default-rtdb.firebaseio.com",
+    "project_id": "salesprp-31e4a",
+    "storage_bucket": "salesprp-31e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980258861434:android:60b409c3859090fcc026c3",
+        "android_client_info": {
+          "package_name": "com.possaas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3NNQ_vCQn_urWjLlX4YV7nc9rXNSukX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
