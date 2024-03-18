@@ -44,6 +44,6 @@ const String flutterwaveEncryptionKey = 'FLWSECK_TEST6bc8eaceedfa';
 const String flutterwaveCurrency = 'Tsh';
 
 //Stripe Settings
-const String stripePublishableKey = 'pk_test_zOmNeUO71xTTP3jVPVcaQrsO';
-const String stripeSecretKey = 'sk_test_MGyxDcHhKWRCAooZv4366wK1';
+const String stripePublishableKey = '';
+const String stripeSecretKey = '';
 const String stripeCurrency = 'Tsh';
