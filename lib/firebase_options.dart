@@ -46,21 +46,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-      apiKey: "AIzaSyDBnlj7lgb7HTVoX9Wi9QOE6ENqyOV55MU",
-      authDomain: "salesprp-31e4a.firebaseapp.com",
-      databaseURL: "https://salesprp-31e4a-default-rtdb.firebaseio.com",
-      projectId: "salesprp-31e4a",
-      storageBucket: "salesprp-31e4a.appspot.com",
-      messagingSenderId: "980258861434",
-      appId: "1:980258861434:web:ac6720286e4169b6c026c3"
+      apiKey: "AIzaSyCSbFJamYnB1libGN76-XR2vBiSi4xrt7c",
+      authDomain: "financepm-a48bd.firebaseapp.com",
+      databaseURL: "https://financepm-a48bd-default-rtdb.firebaseio.com",
+      projectId: "financepm-a48bd",
+      storageBucket: "financepm-a48bd.appspot.com",
+      messagingSenderId: "241797545371",
+      appId: "1:241797545371:web:978a96b4b8069f2cf6753e",
+      measurementId: "G-PSGPLPKYC7"
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDBnlj7lgb7HTVoX9Wi9QOE6ENqyOV55MU',
-    appId: '1:980258861434:android:60b409c3859090fcc026c3',
-    messagingSenderId: '606700156156',
-    projectId: 'salesprp-31e4a',
-    storageBucket: 'salesprp-31e4a.appspot.com',
+    apiKey: 'AIzaSyCSbFJamYnB1libGN76-XR2vBiSi4xrt7c',
+    appId: '1:241797545371:android:751728e89a4cd219f6753e',
+    messagingSenderId: '241797545371',
+    projectId: 'financepm-a48bd',
+    storageBucket: "financepm-a48bd.appspot.com",
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
