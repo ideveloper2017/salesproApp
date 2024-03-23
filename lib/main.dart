@@ -38,6 +38,7 @@ import 'Screens/Purchase List/purchase_list_screen.dart';
 import 'Screens/Purchase/choose_supplier_screen.dart';
 import 'Screens/Sales List/sales_list_screen.dart';
 import 'Screens/Warranty/warranty_screen.dart';
+import 'firebase_options.dart';
 import 'generated/l10n.dart';
 
 void configLoading() {

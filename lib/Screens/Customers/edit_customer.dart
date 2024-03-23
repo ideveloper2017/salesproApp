@@ -429,7 +429,6 @@ class _EditCustomerState extends State<EditCustomer> {
                               Padding(
                                 padding: const EdgeInsets.all(8.0),
                                 child: AppTextField(
-                                  readOnly: true,
                                   initialValue: widget.customerModel.dueAmount,
                                   textFieldType: TextFieldType.NAME,
                                   maxLines: 2,

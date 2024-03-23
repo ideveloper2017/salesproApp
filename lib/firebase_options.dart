@@ -46,30 +46,31 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-      apiKey: "AIzaSyCSbFJamYnB1libGN76-XR2vBiSi4xrt7c",
-      authDomain: "financepm-a48bd.firebaseapp.com",
-      databaseURL: "https://financepm-a48bd-default-rtdb.firebaseio.com",
-      projectId: "financepm-a48bd",
-      storageBucket: "financepm-a48bd.appspot.com",
-      messagingSenderId: "241797545371",
-      appId: "1:241797545371:web:978a96b4b8069f2cf6753e",
-      measurementId: "G-PSGPLPKYC7"
+    apiKey: "AIzaSyBt1UUtViLgtDU8orqCGDfySTbVX77V63I",
+    authDomain: "bravoparfum-66ca7.firebaseapp.com",
+    databaseURL: "https://bravoparfum-66ca7-default-rtdb.firebaseio.com",
+    projectId: "bravoparfum-66ca7",
+    storageBucket: "bravoparfum-66ca7.appspot.com",
+    messagingSenderId: "455269009142",
+    appId: "1:455269009142:web:5c8e44f4e2332c54d1ced7",
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCSbFJamYnB1libGN76-XR2vBiSi4xrt7c',
-    appId: '1:241797545371:android:751728e89a4cd219f6753e',
-    messagingSenderId: '241797545371',
-    projectId: 'financepm-a48bd',
-    storageBucket: "financepm-a48bd.appspot.com",
+    apiKey: 'AIzaSyBt1UUtViLgtDU8orqCGDfySTbVX77V63I',
+    appId: '1:455269009142:android:6634d434a7d70af7d1ced7',
+    databaseURL: "https://bravoparfum-66ca7-default-rtdb.firebaseio.com",
+    messagingSenderId: '455269009142',
+    projectId: 'bravoparfum-66ca7',
+    storageBucket: "bravoparfum-66ca7.appspot.com",
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAT1zNWpyIsMp29W0OEKcJ9NJa0b_HvDwE',
-    appId: '1:736551413173:ios:f50c8a1a94df52472fe5fc',
-    messagingSenderId: '736551413173',
-    projectId: 'maanpos',
-    storageBucket: 'maanpos.appspot.com',
+    apiKey: 'AIzaSyBt1UUtViLgtDU8orqCGDfySTbVX77V63I',
+    appId: '1:455269009142:ios:89dc24b38698f3d2d1ced7',
+    databaseURL: "https://bravoparfum-66ca7-default-rtdb.firebaseio.com",
+    messagingSenderId: '455269009142',
+    projectId: 'bravoparfum-66ca7',
+    storageBucket: "bravoparfum-66ca7.appspot.com",
     iosBundleId: 'com.maantheme.mobilepo',
   );
 }

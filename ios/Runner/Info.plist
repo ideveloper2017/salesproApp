@@ -4,8 +4,6 @@
 <dict>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
-	<key>GADApplicationIdentifier</key>
-    <string>ca-app-pub-3940256099942544~1458002511</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
@@ -24,12 +22,6 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Select Photos To Upload</string>
-	<key>NSCameraUsageDescription</key>
-	<string>Select Photos To Upload</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>Select Photos To Upload</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -43,8 +35,16 @@
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-3940256099942544~1458002511</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Select Photos To Upload</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Select Photos To Upload</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Select Photos To Upload</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>

@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "241797545371",
-    "firebase_url": "https://financepm-a48bd-default-rtdb.firebaseio.com",
-    "project_id": "financepm-a48bd",
-    "storage_bucket": "financepm-a48bd.appspot.com"
+    "project_number": "455269009142",
+    "firebase_url": "https://bravoparfum-66ca7-default-rtdb.firebaseio.com",
+    "project_id": "bravoparfum-66ca7",
+    "storage_bucket": "bravoparfum-66ca7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:241797545371:android:751728e89a4cd219f6753e",
+        "mobilesdk_app_id": "1:455269009142:android:6634d434a7d70af7d1ced7",
         "android_client_info": {
           "package_name": "com.possaas.app"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAPS4F4ukh-3iG0gwqctJxR9YLhLqRoHZM"
+          "current_key": "AIzaSyDMd9ZffUaszi-IPHCskL0GTKjNZYMhMn4"
         }
       ],
       "services": {

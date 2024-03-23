@@ -36,7 +36,7 @@ MessageLookupByLibrary? _findExact(String localeName) {
     case 'uz':
       return messages_uz.messages;
     default:
-      return null;
+      return messages_uz.messages;
   }
 }
 
